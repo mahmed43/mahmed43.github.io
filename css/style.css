@@ -1,0 +1,48 @@
+.sidebar{
+	background-color: #bdc3c7;
+	text-align: left;
+	font-family: sans-serif;
+}
+
+.card{
+	background-color: #bdc3c7;
+	border-radius: 0px;
+}
+
+
+/*
+
+.main{
+	background-color: #95a5a6;
+	border-radius: 0px;
+}
+img {
+    border-radius: 8px;
+}
+*/
+.jumbotron{
+	background-image: url(https://images.unsplash.com/photo-1479127820278-07bc8118cf6a?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=698d8479a61fffeb04db628c905e52c9);
+	background-size: cover;
+	background-position: center;
+	padding-top: 100px;
+	padding-bottom: 300px;
+	margin-bottom: 0px;
+}
+
+.navbar{
+	background: #7f8c8d;
+	min-height: 60px;
+	line-height: 50px;
+	height:50px;
+	border-radius: 0px
+
+}
+
+h1{
+	font-family: sans-serif;
+	text-align: center;
+	color: #2c3e50;
+}
+.card1{
+	background-color: #2980b9;
+}
